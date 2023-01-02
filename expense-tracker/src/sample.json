@@ -1,0 +1,35 @@
+{
+  "iuhsdsq":{
+    "2022":[
+      {
+        "october":{
+          "id":"112",
+          "entry":[
+            {
+              "title": "Shopping with family",
+              "amount": 2300,
+              "spentOn": "23.2.22",
+              "category": "Movie",
+              "autherId":"112"
+            },
+            {
+              "title": "Shopping with family",
+              "amount": 2300,
+              "spentOn": "23.2.22",
+              "category": "Movie",
+              "autherId":"112"
+            },
+            {
+              "title": "Shopping with family",
+              "amount": 2300,
+              "spentOn": "23.2.22",
+              "category": "Movie",
+              "autherId":"112"
+            }
+          ],
+          "year":2022
+        }
+      }
+    ]
+  }
+}

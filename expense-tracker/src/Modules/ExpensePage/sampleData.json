@@ -1,0 +1,79 @@
+{
+  "wwiu651uvu2u62": {
+    "expenseData":[
+      {
+        "month":"october",
+        "expenseList": [
+          {
+            "expenseName": "Shopping with family",
+            "amount": 2300,
+            "date": "23.2.22",
+            "category": "Movie"
+          },
+          {
+            "expenseName": "Shopping with family",
+            "amount": 2300,
+            "date": "23.2.22",
+            "category": "Movie"
+          },
+          {
+            "expenseName": "Shopping with family",
+            "amount": 2300,
+            "date": "23.2.22",
+            "category": "Movie"
+          }
+        ],
+        "totalSpent": 4700
+      },
+      {
+        "month":"November",
+        "expenseList": [
+          {
+            "expenseName": "Shopping with family",
+            "amount": 2300,
+            "date": "23.2.22",
+            "category": "Movie"
+          },
+          {
+            "expenseName": "Shopping with family",
+            "amount": 2300,
+            "date": "23.2.22",
+            "category": "Movie"
+          },
+          {
+            "expenseName": "Shopping with family",
+            "amount": 2300,
+            "date": "23.2.22",
+            "category": "Movie"
+          }
+        ],
+        "totalSpent": 4700
+      },
+      {
+        "month":"December",
+        "expenseList": [
+          {
+            "expenseName": "Shopping with family",
+            "amount": 2300,
+            "date": "23.2.22",
+            "category": "Movie"
+          },
+          {
+            "expenseName": "Shopping with family",
+            "amount": 2300,
+            "date": "23.2.22",
+            "category": "Movie"
+          },
+          {
+            "expenseName": "Shopping with family",
+            "amount": 2300,
+            "date": "23.2.22",
+            "category": "Movie"
+          }
+        ],
+        "totalSpent": 4700
+      }
+      
+    ]
+  }
+}

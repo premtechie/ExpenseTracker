@@ -3,7 +3,7 @@ import { getAuth, onAuthStateChanged } from 'firebase/auth';
 import { useNavigate } from 'react-router-dom';
 
 export interface IAuthRouteProps {
-  children: any
+  children: React.ReactNode
 }
 
 export const AuthRoute: React.FunctionComponent<IAuthRouteProps> = (props) => {
@@ -23,7 +23,7 @@ export const AuthRoute: React.FunctionComponent<IAuthRouteProps> = (props) => {
         });
 
         return () => AuthCheck();
-    }, [auth]);
+    }, [auth, navigate]);
 
     if (loading) return <p>loading ...</p>;
 
